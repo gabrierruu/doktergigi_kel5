@@ -1,3 +1,4 @@
 <?php
-echo "dokter gacor"
+echo "dokter gacor";
+echo "dokter slurp";
 ?>
