@@ -1,1 +1,3 @@
-dokter gigi
+<?php
+echo "dokter gacor"
+?>
